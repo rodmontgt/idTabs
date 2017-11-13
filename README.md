@@ -2,7 +2,7 @@
 ### the whatever plugin (version for Blogger/Blogspot)
 
 idTabs is a plugin for jQuery.
-It makes adding tabs into a website super simple.
+It makes adding tabs into a b super simple.
 But it can also open the door to endless possiblities.
 
 Getting started is easy, just download the program above,
@@ -29,5 +29,5 @@ More info at:
 
 [http://www.sunsean.com/idTabs/](http://www.sunsean.com/idTabs/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwOTkzNTY1N119
+eyJoaXN0b3J5IjpbMTkyMzIzNjgwMl19
 -->
