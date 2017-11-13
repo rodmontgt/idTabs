@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+#idTabs, 
+##the whatever plugin (version for Blogger/Blogspot)
 
-You can use the [editor on GitHub](https://github.com/rodmontgt/idTabs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+idTabs is a plugin for jQuery.
+It makes adding tabs into a website super simple.
+But it can also open the door to endless possiblities.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Getting started is easy, just download the program above,
+and copy and paste the following code into the <head>
+<script src='https://cdn.rawgit.com/rodmontgt/idTabs/master/idTabs-stramaxon.js' type='text/javascript'/>
+Now any <a href="#tab"> inside of an element with class="idTabs"
+will show the element with id="tab". See below for a better example.
 
-### Markdown
+<ul class="idTabs"> 
+  <li><a href="#jquery">jQuery</a></li> 
+  <li><a href="#official">Tabs 3</a></li> 
+</ul> 
+<div id="jquery">If you haven't checked out ...</div> 
+<div id="official">idTabs is only a simple ...</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rodmontgt/idTabs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
