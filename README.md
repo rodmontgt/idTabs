@@ -5,8 +5,7 @@ idTabs is a plugin for jQuery.
 It makes adding tabs into a blog super simple.
 But it can also open the door to endless possiblities.
 
-Getting started is easy, just download the program above,
-and copy and paste the following code into the `<head>`
+Getting started is easy, just copy and paste the following code into the `<head>`
   
 
     <script src='https://cdn.rawgit.com/rodmontgt/idTabs/master/idTabs-stramaxon.js' type='text/javascript'/>
@@ -29,5 +28,5 @@ More info at:
 
 [http://www.sunsean.com/idTabs/](http://www.sunsean.com/idTabs/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5NjU2Mjc3MF19
+eyJoaXN0b3J5IjpbMTQ0MjU0MTYwM119
 -->
