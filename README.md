@@ -27,3 +27,6 @@ More info at:
 [http://www.stramaxon.com/2012/07/jquery-tabs-plugin-blogger.html](http://www.stramaxon.com/2012/07/jquery-tabs-plugin-blogger.html)
 
 [http://www.sunsean.com/idTabs/](http://www.sunsean.com/idTabs/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUwODMxMTQ4M119
+-->
