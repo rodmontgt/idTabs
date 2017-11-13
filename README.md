@@ -19,3 +19,6 @@ will show the element with id="tab". See below for a better example:
   </ul> 
   <div id="jquery">If you haven't checked out ...</div> 
   <div id="official">idTabs is only a simple ...</div>
+
+More info at:
+http://www.stramaxon.com/2012/07/jquery-tabs-plugin-blogger.html
